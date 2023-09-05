@@ -1,0 +1,26 @@
+{
+  "name": "exercicio_pratico_01",
+  "version": "1.0.0",
+  "description": "1st practical exercise. Generate a Node.Js project with the npm int command. Implement the classes as shown in the diagram. Use modules to organize your classes in a Node JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "testTheCode"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beatrizbenz/Software_Architecture.git"
+    //"git+ssh://git@github.com/beatrizbenz/Software_Architecture.git"
+  },
+  "keywords": [
+    "test",
+    "init",
+    "npm",
+    "software"
+  ],
+  "author": "Beatriz Benz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beatrizbenz/Software_Architecture/issues"
+  },
+  "homepage": "https://github.com/beatrizbenz/Software_Architecture#readme"
+}
