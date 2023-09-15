@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/beatrizbenz/Software_Architecture/issues"
   },
-  "homepage": "https://github.com/beatrizbenz/Software_Architecture#readme"
+  "homepage": "https://github.com/beatrizbenz/Software_Architecture#readme",
+  "dependencies": {
+    "glob": "^10.3.4"
+  }
 }

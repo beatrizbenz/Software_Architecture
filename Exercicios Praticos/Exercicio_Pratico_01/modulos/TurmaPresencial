@@ -1,0 +1,9 @@
+import Turma from './Turma.js';
+
+export default class TurmaPresencial extends Turma {
+
+  constructor(frequencia, frequenciaAprovada) {
+    this.frequencia = frequencia;
+    this.frequenciaAprovada = frequenciaAprovada;
+  }
+}
