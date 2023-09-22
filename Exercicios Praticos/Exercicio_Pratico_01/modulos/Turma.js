@@ -1,9 +1,8 @@
 export default class Turma {
-  constructor(codigo, nota, notaAprovado) {
+  constructor(codigo, nota) {
     this.codigo = codigo;
     this.nota = nota;
-    this.notaAprovado = notaAprovado;
   }
-}
 
-const frequenciaAprovada = new Boolean(false);
+  aprovado() { return this.nota >= 6; }
+}
